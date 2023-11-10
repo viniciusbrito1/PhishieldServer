@@ -1,0 +1,7 @@
+2023/11/07-01:02:56.201 d6da Reusing MANIFEST /root/ipe/Server/tokens/session-name/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/11/07-01:02:56.207 d6da Recovering log #4611
+2023/11/07-01:02:56.233 d6da Reusing old log /root/ipe/Server/tokens/session-name/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/004611.log 
+2023/11/07-01:03:14.111 d6df Level-0 table #4627: started
+2023/11/07-01:03:14.157 d6df Level-0 table #4627: 1061897 bytes OK
+2023/11/07-01:03:14.161 d6df Delete type=0 #4611
+2023/11/07-01:03:14.292 d6df Compacting 1@0 + 1@1 files
